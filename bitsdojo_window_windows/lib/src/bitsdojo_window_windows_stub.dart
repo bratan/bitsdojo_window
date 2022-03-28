@@ -1,5 +1,6 @@
-import 'package:bitsdojo_window_platform_interface/bitsdojo_window_platform_interface.dart';
 import 'dart:ui';
+
+import 'package:bitsdojo_window_platform_interface/bitsdojo_window_platform_interface.dart';
 export './window_interface.dart';
 
 class BitsdojoWindowWindows extends BitsdojoWindowPlatform {
